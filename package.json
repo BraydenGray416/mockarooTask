@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/BraydenGray416/mockarooTask/issues"
   },
-  "homepage": "https://github.com/BraydenGray416/mockarooTask#readme"
+  "homepage": "https://github.com/BraydenGray416/mockarooTask#readme",
+  "dependencies": {}
 }
